@@ -11,7 +11,7 @@ description: |
   client-side software for that.
 
   It operates as a DNS server that re-routes tracking domains to a "black hole,"
-  thus preventing your devices from connecting to those servers. It's based
+  thus preventing your devices from connecting to those servers. It's bas
   on software we use for our public AdGuard DNS servers -- both share a lot
   of common code.
 grade: stable
