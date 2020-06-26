@@ -4,7 +4,7 @@
 name: adguard-home
 base: core18
 version: 'edge'
-summary: Network-wide ads & trackers blocking DNS server
+summary: Network-wide ads & trackers blocking DNS serv
 description: |
   AdGuard Home is a network-wide software for blocking ads & tracking. After
   you set it up, it'll cover ALL your home devices, and you don't need any
